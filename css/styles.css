@@ -184,11 +184,10 @@ p {
 
 .hero-section {
     background-image: linear-gradient(
-            to bottom,
             rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)
         ),
-        url(../images/hero-section-bg.jpg);
+        url(../images/hero-bg-image.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
